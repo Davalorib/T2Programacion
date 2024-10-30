@@ -27,12 +27,17 @@ public class Main {
 //        Excepciones excepciones = new Excepciones();
 //        excepciones.excepcion();
 
-        Aleatorios aleatorios = new Aleatorios();
+//        Aleatorios aleatorios = new Aleatorios();
 //        aleatorios.random();
 //        aleatorios.ej1();
 //        aleatorios.ej2();
 //        aleatorios.ej3();
-        aleatorios.ej4();
+//        aleatorios.ej4();
+
+        BateriaExamen bateriaExamen = new BateriaExamen();
+//        bateriaExamen.ej1();
+//        bateriaExamen.ej2();
+        bateriaExamen.ej3();
 
     }
 }
